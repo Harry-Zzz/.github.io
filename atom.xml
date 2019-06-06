@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>C:/Users/haoyu/Documents/Gridea/output</id>
-    <title>Gridea</title>
-    <updated>2019-06-06T06:57:38.128Z</updated>
+    <id>https://Harry-Zzz.github.io</id>
+    <title>Haoyu&apos;s Blog</title>
+    <updated>2019-06-06T07:10:01.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="C:/Users/haoyu/Documents/Gridea/output"/>
-    <link rel="self" href="C:/Users/haoyu/Documents/Gridea/output/atom.xml"/>
+    <link rel="alternate" href="https://Harry-Zzz.github.io"/>
+    <link rel="self" href="https://Harry-Zzz.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>C:/Users/haoyu/Documents/Gridea/output/images/avatar.png</logo>
-    <icon>C:/Users/haoyu/Documents/Gridea/output/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <logo>https://Harry-Zzz.github.io/images/avatar.png</logo>
+    <icon>https://Harry-Zzz.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2019, Haoyu&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>C:/Users/haoyu/Documents/Gridea/output/post/hello-gridea/index.html</id>
-        <link href="C:/Users/haoyu/Documents/Gridea/output/post/hello-gridea/index.html">
+        <id>https://Harry-Zzz.github.io/post/hello-gridea</id>
+        <link href="https://Harry-Zzz.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
